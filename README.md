@@ -45,7 +45,7 @@ Olá!! Me chamo Ryan Pimentel, tenho 18 anos e sou natural do Rio de Janeiro por
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
 <p>
   <img 
