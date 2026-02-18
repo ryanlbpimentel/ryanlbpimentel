@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá!! Me chamo Ryan Pimentel, tenho 18 anos e sou natural do Rio de Janeiro porém atualmente estou morando em Quixadá. Estou cursando Engenharia de Software.
+Olá!! Me chamo Ryan Pimentel, tenho 19 anos e sou natural do Rio de Janeiro porém atualmente estou morando em Quixadá cursando Engenharia de Software na Universidade Federal do Ceará (UFC).
 
 ### 🤖 Linguagens e Tecnologias
 
