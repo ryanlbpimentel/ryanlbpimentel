@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ryan Pimentel
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor`**
 
 Olá!! Me chamo Ryan Pimentel, tenho 18 anos e sou natural do Rio de Janeiro porém atualmente estou morando em Quixadá. Estou cursando Engenharia de Software.
 
